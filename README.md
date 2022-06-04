@@ -1,1 +1,1 @@
-# C# Form Baþlangýç Örneði
+# C# Form Baslangic Ornegi
